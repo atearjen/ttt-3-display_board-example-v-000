@@ -5,5 +5,4 @@ def print_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-
 end
